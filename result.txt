@@ -1,0 +1,32 @@
+
+TEST 1
+969
+Time to First Byte: 238
+Page load time: 1207
+DNS lookup: 0
+TCP: 14
+
+TEST 2 
+Card opening speed: 0.2984638214111328
+---------------------------------------------
+
+TEST 1
+1118
+Time to First Byte: 228
+Page load time: 3404
+DNS lookup: 0
+TCP: 12
+
+TEST 2 
+Card opening speed: 0.29735898971557617
+---------------------------------------------
+TEST 1
+961
+Time to First Byte: 187
+Page load time: 1148
+DNS lookup: 0
+TCP: 14
+
+TEST 2 
+Card opening speed: 0.29308128356933594
+---------------------------------------------
